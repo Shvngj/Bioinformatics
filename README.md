@@ -7,6 +7,6 @@ Level 2\
 Q. Find the most frequent k-mers with atmost d mismatches between them.\
 Level 3\
 Q. Find origin and terminus of replication using skew caused due to deamination.\
-Level 4\
+Level 4 - Randomized Motif Search\
 Q. Find the set of motifs with highest score from a set of sequences.\
 Q. Find k-mers from an appropriate motif set using profiling.\
